@@ -5,6 +5,11 @@ Welcome to the **Endless Runner Game**! 🏃‍♂️ This is a thrilling **2D e
 
 ![Game Preview](https://i.postimg.cc/fLK9YYPv/2024-12-10-110901.png)
 
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows 🖥️
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 3D Game 🌍
 
 ## 🌟 Key Features 🌟
 
