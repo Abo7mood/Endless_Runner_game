@@ -3,6 +3,9 @@
 
 Welcome to the **Endless Runner Game**! 🏃‍♂️ This is a thrilling **2D endless runner** developed in Unity, designed to test your reflexes and provide endless fun. A playable demo is ready for you to experience!
 
+![Game Preview](https://i.postimg.cc/fLK9YYPv/2024-12-10-110901.png)
+
+
 ## 🌟 Key Features 🌟
 
 - **Endless Running Action**: Run endlessly while dodging obstacles and collecting points. 🏃‍♂️
