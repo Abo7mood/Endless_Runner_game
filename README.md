@@ -1,5 +1,6 @@
 
 # Endless Runner Game 🏃‍♂️🎮
+--------------------------
 
 Welcome to the **Endless Runner Game**! 🏃‍♂️ This is a thrilling **2D endless runner** developed in Unity, designed to test your reflexes and provide endless fun. A playable demo is ready for you to experience!
 
@@ -32,9 +33,7 @@ Welcome to the **Endless Runner Game**! 🏃‍♂️ This is a thrilling **2D e
 2. Open the project in Unity (version 2020.3.13f).
 3. Build and run the project on your desired platform.
 
-## 🎮 Demo 🎮
 
-Try the playable demo here: [Endless Runner Demo](https://abo-7mood.itch.io/endless_runner_game)
 
 ## 🛠️ Additional Information 🛠️
 
@@ -45,3 +44,19 @@ Try the playable demo here: [Endless Runner Demo](https://abo-7mood.itch.io/endl
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
+
+# Story of this game 📖
+--------------------------
+
+I created this game as a **Proof of Concept (POC)** for one of my clients on **Fiverr**. The project was completed on **8/26/2021** as part of his next 3D game.
+
+At the time, I worked primarily as a **2D game developer**, with limited interest in multiplayer mechanics. but I wanna try working on 3D project from time to time.
+
+The development process wasn’t without its challenges. I faced a few technical hurdles and incorporated some revisions based on the client's feedback. However, I stayed committed to delivering a product that met his expectations. 
+
+In the end, the hard work paid off. The client was thrilled with the result and left me a glowing **5-star review on Fiverr**, praising my dedication and expertise. This project remains a memorable milestone in my journey as a game developer.
+
+# 🎮 Demo 🎮
+--------------------------
+
+Try the playable demo here: [Endless Runner Demo](https://abo-7mood.itch.io/endless_runner_game)
