@@ -6,6 +6,9 @@ Welcome to the **Endless Runner Game**! 🏃‍♂️ This is a thrilling **2D e
 
 ![Game Preview](https://i.postimg.cc/fLK9YYPv/2024-12-10-110901.png)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
+
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**: Windows 🖥️
